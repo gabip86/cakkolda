@@ -140,6 +140,7 @@ const Main = () => {
       <div class="container marketing">
         {/* <!-- Three columns of text below the carousel --> */}
         <div class="row">
+          <h1>Termékek</h1>
           <div class="col-lg-4">
             <svg
               class="bd-placeholder-img rounded-circle"
@@ -151,21 +152,21 @@ const Main = () => {
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
             >
-              <title>Placeholder</title>
               <rect width="100%" height="100%" fill="#777" />
               <text x="50%" y="50%" fill="#777" dy=".3em">
                 140x140
               </text>
+              <image href="termek1.jpg" height="140" width="140 " />
             </svg>
 
-            <h2>Heading</h2>
+            <h2>Wellsoft</h2>
             <p>
               Some representative placeholder content for the three columns of
               text below the carousel. This is the first column.
             </p>
             <p>
               <a class="btn btn-secondary" href="#">
-                View details &raquo;
+                Részletek &raquo;
               </a>
             </p>
           </div>
@@ -188,14 +189,14 @@ const Main = () => {
               </text>
             </svg>
 
-            <h2>Heading</h2>
+            <h2>Futter</h2>
             <p>
               Another exciting bit of representative placeholder content. This
               time, we've moved on to the second column.
             </p>
             <p>
               <a class="btn btn-secondary" href="#">
-                View details &raquo;
+                Részletek &raquo;
               </a>
             </p>
           </div>
@@ -218,14 +219,14 @@ const Main = () => {
               </text>
             </svg>
 
-            <h2>Heading</h2>
+            <h2>Takarók</h2>
             <p>
               And lastly this, the third column of representative placeholder
               content.
             </p>
             <p>
               <a class="btn btn-secondary" href="#">
-                View details &raquo;
+                Részletek &raquo;
               </a>
             </p>
           </div>
