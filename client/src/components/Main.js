@@ -1,4 +1,5 @@
 import React from "react";
+import "./main.css";
 
 const Main = () => {
   return (
@@ -42,14 +43,14 @@ const Main = () => {
 
             <div class="container">
               <div class="carousel-caption text-start">
-                <h1>Example headline.</h1>
+                <h1>Legújabb kollekció</h1>
                 <p>
                   Some representative placeholder content for the first slide of
                   the carousel.
                 </p>
                 <p>
                   <a class="btn btn-lg btn-primary" href="#">
-                    Sign up today
+                    Termékek
                   </a>
                 </p>
               </div>
