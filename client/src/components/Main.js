@@ -42,14 +42,39 @@ const Main = () => {
             </svg>
 
             <div class="container">
-              <div class="carousel-caption text-start">
+              <div class="carousel-caption">
                 <h1>Legújabb kollekció</h1>
-                <p>
-                  Some representative placeholder content for the first slide of
-                  the carousel.
-                </p>
+                <p>Yaya goo doo gaa yaya doodoo yaya gaagaa gaagaa dada.</p>
                 <p>
                   <a class="btn btn-lg btn-primary" href="/termekek">
+                    Kollekció
+                  </a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <svg
+              class="bd-placeholder-img"
+              width="100%"
+              height="100%"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-hidden="true"
+              preserveAspectRatio="xMidYMid slice"
+              focusable="false"
+            >
+              <rect width="100%" height="100%" fill="#777" />
+            </svg>
+
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Termékek</h1>
+                <p>
+                  Googoo yaya gaagaa gaagaa googoo gaga goo. Yaya goo doo gaa
+                  yaya doodoo yaya gaagaa gaagaa dada.
+                </p>
+                <p>
+                  <a class="btn btn-lg btn-primary" href="/arlista">
                     Termékek
                   </a>
                 </p>
@@ -71,42 +96,14 @@ const Main = () => {
 
             <div class="container">
               <div class="carousel-caption">
-                <h1>Another example headline.</h1>
+                <h1>Akciók</h1>
                 <p>
-                  Some representative placeholder content for the second slide
-                  of the carousel.
-                </p>
-                <p>
-                  <a class="btn btn-lg btn-primary" href="/arlista">
-                    Learn more
-                  </a>
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <svg
-              class="bd-placeholder-img"
-              width="100%"
-              height="100%"
-              xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <rect width="100%" height="100%" fill="#777" />
-            </svg>
-
-            <div class="container">
-              <div class="carousel-caption text-end">
-                <h1>One more for good measure.</h1>
-                <p>
-                  Some representative placeholder content for the third slide of
-                  this carousel.
+                  Doo doo yaya goo googoo ga da googoo da. Doo doo yaya goo
+                  googoo ga da googoo da
                 </p>
                 <p>
                   <a class="btn btn-lg btn-primary" href="/rolam">
-                    Browse gallery
+                    Akciók
                   </a>
                 </p>
               </div>
