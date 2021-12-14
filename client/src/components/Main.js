@@ -49,7 +49,7 @@ const Main = () => {
                   the carousel.
                 </p>
                 <p>
-                  <a class="btn btn-lg btn-primary" href="#">
+                  <a class="btn btn-lg btn-primary" href="/termekek">
                     Termékek
                   </a>
                 </p>
@@ -77,7 +77,7 @@ const Main = () => {
                   of the carousel.
                 </p>
                 <p>
-                  <a class="btn btn-lg btn-primary" href="#">
+                  <a class="btn btn-lg btn-primary" href="/arlista">
                     Learn more
                   </a>
                 </p>
@@ -105,7 +105,7 @@ const Main = () => {
                   this carousel.
                 </p>
                 <p>
-                  <a class="btn btn-lg btn-primary" href="#">
+                  <a class="btn btn-lg btn-primary" href="/rolam">
                     Browse gallery
                   </a>
                 </p>
@@ -165,7 +165,7 @@ const Main = () => {
               text below the carousel. This is the first column.
             </p>
             <p>
-              <a class="btn btn-secondary" href="#">
+              <a class="btn btn-secondary" href="/termekek">
                 Részletek &raquo;
               </a>
             </p>
@@ -195,7 +195,7 @@ const Main = () => {
               time, we've moved on to the second column.
             </p>
             <p>
-              <a class="btn btn-secondary" href="#">
+              <a class="btn btn-secondary" href="/termekek">
                 Részletek &raquo;
               </a>
             </p>
@@ -225,7 +225,7 @@ const Main = () => {
               content.
             </p>
             <p>
-              <a class="btn btn-secondary" href="#">
+              <a class="btn btn-secondary" href="/termekek">
                 Részletek &raquo;
               </a>
             </p>

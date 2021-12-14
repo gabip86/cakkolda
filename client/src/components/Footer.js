@@ -1,5 +1,4 @@
 import React from "react";
-import "./footer.css";
 
 const Footer = () => {
   return (
@@ -10,7 +9,7 @@ const Footer = () => {
             <h5>Elérhetőség</h5>
             <ul class="nav flex-column">
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="info@cakkolda.hu" class="nav-link p-0 text-muted">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -25,22 +24,22 @@ const Footer = () => {
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/termekek" class="nav-link p-0 text-muted">
                   Termékek
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/arlista" class="nav-link p-0 text-muted">
                   Árlista
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/gyik" class="nav-link p-0 text-muted">
                   GYIK
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="rolam" class="nav-link p-0 text-muted">
                   Rólam
                 </a>
               </li>
@@ -51,27 +50,27 @@ const Footer = () => {
             <h5>Információk</h5>
             <ul class="nav flex-column">
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/szallitas_fizetes" class="nav-link p-0 text-muted">
                   Szállítási és fizetési módok
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/aszf" class="nav-link p-0 text-muted">
                   ÁSZF
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/adatvedelem" class="nav-link p-0 text-muted">
                   Adatvédelmi nyilatkozat
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/reklamacio" class="nav-link p-0 text-muted">
                   Reklamáció
                 </a>
               </li>
               <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
+                <a href="/kapcsolat" class="nav-link p-0 text-muted">
                   Kapcsolat
                 </a>
               </li>
@@ -105,7 +104,12 @@ const Footer = () => {
 
           <ul class="list-unstyled d-flex">
             <li class="ms-3">
-              <a class="link-dark" href="#">
+              <a
+                class="link-dark"
+                href="http://twitter.com"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -119,7 +123,12 @@ const Footer = () => {
               </a>
             </li>
             <li class="ms-3">
-              <a class="link-dark" href="#">
+              <a
+                class="link-dark"
+                href="http://instagram.com"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -133,7 +142,12 @@ const Footer = () => {
               </a>
             </li>
             <li class="ms-3">
-              <a class="link-dark" href="#">
+              <a
+                class="link-dark"
+                href="https://www.facebook.com/cakkolda"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -148,7 +162,7 @@ const Footer = () => {
             </li>
           </ul>
           <p class="float-end">
-            <a href="#">
+            <a href="#top">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="32"
